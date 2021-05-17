@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Zay/Documents/GitHub/program-5-binary-search-tree-dblass613/BinarySearchTree.cpp
+BinarySearchTree.h
+/Users/Zay/Documents/GitHub/program-5-binary-search-tree-dblass613/BinarySearchTree.h
+iostream
+-
+
+/Users/Zay/Documents/GitHub/program-5-binary-search-tree-dblass613/BinarySearchTree.h
+
+/Users/Zay/Documents/GitHub/program-5-binary-search-tree-dblass613/main.cpp
+BinarySearchTree.h
+/Users/Zay/Documents/GitHub/program-5-binary-search-tree-dblass613/BinarySearchTree.h
+iostream
+-
+
